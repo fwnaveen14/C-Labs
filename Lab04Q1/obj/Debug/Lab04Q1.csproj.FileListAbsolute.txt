@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Lab04Q1\bin\Debug\Lab04Q1.exe.config
+C:\Users\User\Desktop\C#\Lab04Q1\bin\Debug\Lab04Q1.exe
+C:\Users\User\Desktop\C#\Lab04Q1\bin\Debug\Lab04Q1.pdb
+C:\Users\User\Desktop\C#\Lab04Q1\obj\Debug\Lab04Q1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Lab04Q1\obj\Debug\Lab04Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Lab04Q1\obj\Debug\Lab04Q1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lab04Q1\obj\Debug\Lab04Q1.exe
+C:\Users\User\Desktop\C#\Lab04Q1\obj\Debug\Lab04Q1.pdb
