@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\Lab06Q8\bin\Debug\Lab06Q8.exe.config
+C:\Users\User\Desktop\C#\Lab06Q8\bin\Debug\Lab06Q8.exe
+C:\Users\User\Desktop\C#\Lab06Q8\bin\Debug\Lab06Q8.pdb
+C:\Users\User\Desktop\C#\Lab06Q8\obj\Debug\Lab06Q8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Lab06Q8\obj\Debug\Lab06Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Lab06Q8\obj\Debug\Lab06Q8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lab06Q8\obj\Debug\Lab06Q8.exe
+C:\Users\User\Desktop\C#\Lab06Q8\obj\Debug\Lab06Q8.pdb
